@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @horlaworey
+- 👋 Hi, I’m Kabir
 - 👀 I’m interested in cloud, DevOps, python and backend development
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on cloud, DevOps, python and backend development
