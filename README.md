@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kabir
 - 👀 I’m interested in cloud, DevOps, python and backend development
-- 🌱 I’m currently learning python programming
+- 🌱 I’m currently taking on projects.
 - 💞️ I’m looking to collaborate on cloud, DevOps, python and backend development
 - 📫 How to reach me: https://linkedin.com/in/kabir-olawore/
 
